@@ -13,7 +13,7 @@
       width: auto;
       height: auto;
       padding: 5px;
-      background-color: white;
+      background-color: ababed;
       -webkit-border-radius: 4px;
       -moz-border-radius: 4px;
       border-radius: 4px;
@@ -54,14 +54,14 @@
   }
   
   th.headerCell {
-    background-color: #1E2C5B;
+    background-color: #ababed;
     color: white;
     padding: 5px;
     border-bottom: 1px solid #BDC3C7;
   }
   
   .headerCell.dimension {
-    background-color: #1E2C5B;
+    background-color: #ababed;
     border-right: 1px solid #BDC3C7; 
     color: white;
 
@@ -75,27 +75,27 @@
   }
   
   .headerCell.measure {
-    background-color: #1E2C5B;
+    background-color: #ababed;
     border-left: 1px solid #BDC3C7; 
     color: white;
 
   }
   
   .headerCell.measure.calculation {
-    background-color: #1E2C5B;
+    background-color: #ababed;
     border-left: 1px solid #BDC3C7;
     color: white;
 
   }
   
   .headerCell.transposed.dimension {
-    background-color: #1E2C5B;
+    background-color: #ababed;
     color: white;
 
   }
   
   .headerCell.transposed.dimension.merged {
-    background-color: #1E2C5B !important;
+    background-color: #ababed !important;
     color: white;
 
   }
@@ -120,7 +120,7 @@
   }
   
   .rowCell.merged {
-    background-color: #ffffff !important;
+    background-color: #ababed !important;
   }
   
   .indexCell.transposed {
@@ -128,19 +128,19 @@
   }
   
   .indexCell.transposed.pivot {
-    background-color: #ccd8e4;
+    background-color: #ababed;
   }
   
   .indexCell.transposed.dimension {
-    background-color: #e4ecf3;
+    background-color: #ababed;
   }
   
   .indexCell.transposed.measure {
-    background-color: #e4d0bd;
+    background-color: #ababed;
   }
   
   .indexCell.transposed.calculation {
-    background-color: #c9dfc5;
+    background-color: #ababed;
   }
   
   .indexCell.transposed.pivot.merged {
